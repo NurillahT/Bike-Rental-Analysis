@@ -89,7 +89,7 @@ def season_atemp_color(season):
     return palette
 
 # Memuat Data
-bike_day = pd.read_csv('final_day.csv')
+bike_day = pd.read_csv('dashboard/final_day.csv')
 
 with st.container(border=True):
     st.markdown("<h1 style='text-align: center;'>Bike Rental Dashboard</h1>", unsafe_allow_html=True)
