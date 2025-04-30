@@ -1,0 +1,732 @@
+date,season,year,month,weather,atemp,count,atemp_range,atemp_category
+2011-01-01,spring,2011,Jan,Misty/Cloudy,18.18125,985,"(11.572, 19.19]",Cold
+2011-01-02,spring,2011,Jan,Misty/Cloudy,17.686950000000003,801,"(11.572, 19.19]",Cold
+2011-01-03,spring,2011,Jan,Clear/Partly Cloudy,9.47025,1349,"(3.952, 11.572]",Very Cold
+2011-01-04,spring,2011,Jan,Clear/Partly Cloudy,10.6061,1562,"(3.952, 11.572]",Very Cold
+2011-01-05,spring,2011,Jan,Clear/Partly Cloudy,11.4635,1600,"(3.952, 11.572]",Very Cold
+2011-01-06,spring,2011,Jan,Clear/Partly Cloudy,11.66045,1606,"(11.572, 19.19]",Cold
+2011-01-07,spring,2011,Jan,Misty/Cloudy,10.44195,1510,"(3.952, 11.572]",Very Cold
+2011-01-08,spring,2011,Jan,Misty/Cloudy,8.1127,959,"(3.952, 11.572]",Very Cold
+2011-01-09,spring,2011,Jan,Clear/Partly Cloudy,5.80875,822,"(3.952, 11.572]",Very Cold
+2011-01-10,spring,2011,Jan,Clear/Partly Cloudy,7.5443999999999996,1321,"(3.952, 11.572]",Very Cold
+2011-01-11,spring,2011,Jan,Misty/Cloudy,9.5732,1263,"(3.952, 11.572]",Very Cold
+2011-01-12,spring,2011,Jan,Clear/Partly Cloudy,8.02365,1162,"(3.952, 11.572]",Very Cold
+2011-01-13,spring,2011,Jan,Clear/Partly Cloudy,7.544149999999999,1406,"(3.952, 11.572]",Very Cold
+2011-01-14,spring,2011,Jan,Clear/Partly Cloudy,9.42065,1421,"(3.952, 11.572]",Very Cold
+2011-01-15,spring,2011,Jan,Misty/Cloudy,12.4056,1248,"(11.572, 19.19]",Cold
+2011-01-16,spring,2011,Jan,Clear/Partly Cloudy,11.71085,1204,"(11.572, 19.19]",Cold
+2011-01-17,spring,2011,Jan,Misty/Cloudy,8.838550000000001,1000,"(3.952, 11.572]",Very Cold
+2011-01-18,spring,2011,Jan,Misty/Cloudy,11.61665,683,"(11.572, 19.19]",Cold
+2011-01-19,spring,2011,Jan,Misty/Cloudy,14.921100000000001,1650,"(11.572, 19.19]",Cold
+2011-01-20,spring,2011,Jan,Misty/Cloudy,12.7525,1927,"(11.572, 19.19]",Cold
+2011-01-21,spring,2011,Jan,Clear/Partly Cloudy,7.89165,1543,"(3.952, 11.572]",Very Cold
+2011-01-22,spring,2011,Jan,Clear/Partly Cloudy,3.9534800000000003,981,"(3.952, 11.572]",Very Cold
+2011-01-23,spring,2011,Jan,Clear/Partly Cloudy,4.941955,986,"(3.952, 11.572]",Very Cold
+2011-01-24,spring,2011,Jan,Clear/Partly Cloudy,5.8965,1416,"(3.952, 11.572]",Very Cold
+2011-01-25,spring,2011,Jan,Misty/Cloudy,11.7263,1985,"(11.572, 19.19]",Cold
+2011-01-26,spring,2011,Jan,Light Rain/Snow,10.18,506,"(3.952, 11.572]",Very Cold
+2011-01-27,spring,2011,Jan,Clear/Partly Cloudy,10.985,431,"(3.952, 11.572]",Very Cold
+2011-01-28,spring,2011,Jan,Misty/Cloudy,11.165849999999999,1167,"(3.952, 11.572]",Very Cold
+2011-01-29,spring,2011,Jan,Clear/Partly Cloudy,10.606300000000001,1098,"(3.952, 11.572]",Very Cold
+2011-01-30,spring,2011,Jan,Clear/Partly Cloudy,12.5161,1096,"(11.572, 19.19]",Cold
+2011-01-31,spring,2011,Jan,Misty/Cloudy,9.3125,1501,"(3.952, 11.572]",Very Cold
+2011-02-01,spring,2011,Feb,Misty/Cloudy,11.7265,1360,"(11.572, 19.19]",Cold
+2011-02-02,spring,2011,Feb,Misty/Cloudy,12.72085,1526,"(11.572, 19.19]",Cold
+2011-02-03,spring,2011,Feb,Clear/Partly Cloudy,8.8939,1550,"(3.952, 11.572]",Very Cold
+2011-02-04,spring,2011,Feb,Misty/Cloudy,11.429350000000001,1708,"(3.952, 11.572]",Very Cold
+2011-02-05,spring,2011,Feb,Misty/Cloudy,12.152899999999999,1005,"(11.572, 19.19]",Cold
+2011-02-06,spring,2011,Feb,Clear/Partly Cloudy,14.58355,1623,"(11.572, 19.19]",Cold
+2011-02-07,spring,2011,Feb,Clear/Partly Cloudy,15.1829,1712,"(11.572, 19.19]",Cold
+2011-02-08,spring,2011,Feb,Clear/Partly Cloudy,9.9123,1530,"(3.952, 11.572]",Very Cold
+2011-02-09,spring,2011,Feb,Misty/Cloudy,7.21415,1605,"(3.952, 11.572]",Very Cold
+2011-02-10,spring,2011,Feb,Clear/Partly Cloudy,7.477399999999999,1538,"(3.952, 11.572]",Very Cold
+2011-02-11,spring,2011,Feb,Clear/Partly Cloudy,10.67545,1746,"(3.952, 11.572]",Very Cold
+2011-02-12,spring,2011,Feb,Clear/Partly Cloudy,11.6477,1472,"(11.572, 19.19]",Cold
+2011-02-13,spring,2011,Feb,Clear/Partly Cloudy,16.20565,1589,"(11.572, 19.19]",Cold
+2011-02-14,spring,2011,Feb,Clear/Partly Cloudy,19.9175,1913,"(19.19, 26.808]",Moderate
+2011-02-15,spring,2011,Feb,Clear/Partly Cloudy,12.7137,1815,"(11.572, 19.19]",Cold
+2011-02-16,spring,2011,Feb,Clear/Partly Cloudy,15.809999999999999,2115,"(11.572, 19.19]",Cold
+2011-02-17,spring,2011,Feb,Clear/Partly Cloudy,21.4329,2475,"(19.19, 26.808]",Moderate
+2011-02-18,spring,2011,Feb,Clear/Partly Cloudy,25.599149999999998,2927,"(19.19, 26.808]",Moderate
+2011-02-19,spring,2011,Feb,Clear/Partly Cloudy,19.5702,1635,"(19.19, 26.808]",Moderate
+2011-02-20,spring,2011,Feb,Clear/Partly Cloudy,13.8665,1812,"(11.572, 19.19]",Cold
+2011-02-21,spring,2011,Feb,Misty/Cloudy,14.203750000000001,1107,"(11.572, 19.19]",Cold
+2011-02-22,spring,2011,Feb,Clear/Partly Cloudy,9.30165,1450,"(3.952, 11.572]",Very Cold
+2011-02-23,spring,2011,Feb,Clear/Partly Cloudy,12.28585,1917,"(11.572, 19.19]",Cold
+2011-02-24,spring,2011,Feb,Misty/Cloudy,14.459549999999998,1807,"(11.572, 19.19]",Cold
+2011-02-25,spring,2011,Feb,Misty/Cloudy,17.52305,1461,"(11.572, 19.19]",Cold
+2011-02-26,spring,2011,Feb,Clear/Partly Cloudy,14.1096,1969,"(11.572, 19.19]",Cold
+2011-02-27,spring,2011,Feb,Clear/Partly Cloudy,17.55545,2402,"(11.572, 19.19]",Cold
+2011-02-28,spring,2011,Feb,Misty/Cloudy,20.005899999999997,1446,"(19.19, 26.808]",Moderate
+2011-03-01,spring,2011,Mar,Clear/Partly Cloudy,13.19395,1851,"(11.572, 19.19]",Cold
+2011-03-02,spring,2011,Mar,Clear/Partly Cloudy,16.00355,2134,"(11.572, 19.19]",Cold
+2011-03-03,spring,2011,Mar,Clear/Partly Cloudy,10.00665,1685,"(3.952, 11.572]",Very Cold
+2011-03-04,spring,2011,Mar,Misty/Cloudy,12.783949999999999,1944,"(11.572, 19.19]",Cold
+2011-03-05,spring,2011,Mar,Misty/Cloudy,18.93895,2077,"(11.572, 19.19]",Cold
+2011-03-06,spring,2011,Mar,Misty/Cloudy,18.3126,605,"(11.572, 19.19]",Cold
+2011-03-07,spring,2011,Mar,Clear/Partly Cloudy,11.92305,1872,"(11.572, 19.19]",Cold
+2011-03-08,spring,2011,Mar,Clear/Partly Cloudy,15.120000000000001,2133,"(11.572, 19.19]",Cold
+2011-03-09,spring,2011,Mar,Misty/Cloudy,14.3304,1891,"(11.572, 19.19]",Cold
+2011-03-10,spring,2011,Mar,Light Rain/Snow,19.2834,623,"(19.19, 26.808]",Moderate
+2011-03-11,spring,2011,Mar,Misty/Cloudy,15.25,1977,"(11.572, 19.19]",Cold
+2011-03-12,spring,2011,Mar,Clear/Partly Cloudy,16.287499999999998,2132,"(11.572, 19.19]",Cold
+2011-03-13,spring,2011,Mar,Clear/Partly Cloudy,19.004550000000002,2417,"(11.572, 19.19]",Cold
+2011-03-14,spring,2011,Mar,Clear/Partly Cloudy,16.6,2046,"(11.572, 19.19]",Cold
+2011-03-15,spring,2011,Mar,Misty/Cloudy,15.908900000000001,2056,"(11.572, 19.19]",Cold
+2011-03-16,spring,2011,Mar,Misty/Cloudy,18.3465,2192,"(11.572, 19.19]",Cold
+2011-03-17,spring,2011,Mar,Clear/Partly Cloudy,20.51665,2744,"(19.19, 26.808]",Moderate
+2011-03-18,spring,2011,Mar,Clear/Partly Cloudy,26.35045,3239,"(19.19, 26.808]",Moderate
+2011-03-19,spring,2011,Mar,Clear/Partly Cloudy,23.32625,3117,"(19.19, 26.808]",Moderate
+2011-03-20,spring,2011,Mar,Clear/Partly Cloudy,16.287499999999998,2471,"(11.572, 19.19]",Cold
+2011-03-21,summer,2011,Mar,Misty/Cloudy,20.48675,2077,"(19.19, 26.808]",Moderate
+2011-03-22,summer,2011,Mar,Clear/Partly Cloudy,22.0321,2703,"(19.19, 26.808]",Moderate
+2011-03-23,summer,2011,Mar,Misty/Cloudy,16.89695,2121,"(11.572, 19.19]",Cold
+2011-03-24,summer,2011,Mar,Misty/Cloudy,13.541649999999999,1865,"(11.572, 19.19]",Cold
+2011-03-25,summer,2011,Mar,Clear/Partly Cloudy,12.8156,2210,"(11.572, 19.19]",Cold
+2011-03-26,summer,2011,Mar,Clear/Partly Cloudy,12.87855,2496,"(11.572, 19.19]",Cold
+2011-03-27,summer,2011,Mar,Misty/Cloudy,12.51695,1693,"(11.572, 19.19]",Cold
+2011-03-28,summer,2011,Mar,Clear/Partly Cloudy,12.878700000000002,2028,"(11.572, 19.19]",Cold
+2011-03-29,summer,2011,Mar,Clear/Partly Cloudy,14.6454,2425,"(11.572, 19.19]",Cold
+2011-03-30,summer,2011,Mar,Misty/Cloudy,14.8675,1536,"(11.572, 19.19]",Cold
+2011-03-31,summer,2011,Mar,Light Rain/Snow,12.87875,1685,"(11.572, 19.19]",Cold
+2011-04-01,summer,2011,Apr,Misty/Cloudy,14.172699999999999,2227,"(11.572, 19.19]",Cold
+2011-04-02,summer,2011,Apr,Misty/Cloudy,15.78185,2252,"(11.572, 19.19]",Cold
+2011-04-03,summer,2011,Apr,Clear/Partly Cloudy,18.93835,3249,"(11.572, 19.19]",Cold
+2011-04-04,summer,2011,Apr,Clear/Partly Cloudy,27.14645,3115,"(26.808, 34.427]",Hot
+2011-04-05,summer,2011,Apr,Misty/Cloudy,19.9175,1795,"(19.19, 26.808]",Moderate
+2011-04-06,summer,2011,Apr,Clear/Partly Cloudy,19.3804,2808,"(19.19, 26.808]",Moderate
+2011-04-07,summer,2011,Apr,Clear/Partly Cloudy,21.684800000000003,3141,"(19.19, 26.808]",Moderate
+2011-04-08,summer,2011,Apr,Misty/Cloudy,16.223950000000002,1471,"(11.572, 19.19]",Cold
+2011-04-09,summer,2011,Apr,Misty/Cloudy,17.07645,2455,"(11.572, 19.19]",Cold
+2011-04-10,summer,2011,Apr,Misty/Cloudy,21.33685,2895,"(19.19, 26.808]",Moderate
+2011-04-11,summer,2011,Apr,Misty/Cloudy,28.260849999999998,3348,"(26.808, 34.427]",Hot
+2011-04-12,summer,2011,Apr,Misty/Cloudy,24.6527,2034,"(19.19, 26.808]",Moderate
+2011-04-13,summer,2011,Apr,Misty/Cloudy,20.864150000000002,2162,"(19.19, 26.808]",Moderate
+2011-04-14,summer,2011,Apr,Clear/Partly Cloudy,23.1371,3267,"(19.19, 26.808]",Moderate
+2011-04-15,summer,2011,Apr,Clear/Partly Cloudy,22.09565,3126,"(19.19, 26.808]",Moderate
+2011-04-16,summer,2011,Apr,Light Rain/Snow,21.2746,795,"(19.19, 26.808]",Moderate
+2011-04-17,summer,2011,Apr,Clear/Partly Cloudy,22.2848,3744,"(19.19, 26.808]",Moderate
+2011-04-18,summer,2011,Apr,Clear/Partly Cloudy,25.1573,3429,"(19.19, 26.808]",Moderate
+2011-04-19,summer,2011,Apr,Misty/Cloudy,24.4629,3204,"(19.19, 26.808]",Moderate
+2011-04-20,summer,2011,Apr,Clear/Partly Cloudy,28.2196,3944,"(26.808, 34.427]",Hot
+2011-04-21,summer,2011,Apr,Clear/Partly Cloudy,22.6946,4189,"(19.19, 26.808]",Moderate
+2011-04-22,summer,2011,Apr,Misty/Cloudy,16.0977,1683,"(11.572, 19.19]",Cold
+2011-04-23,summer,2011,Apr,Misty/Cloudy,22.50605,4036,"(19.19, 26.808]",Moderate
+2011-04-24,summer,2011,Apr,Misty/Cloudy,27.58815,4191,"(26.808, 34.427]",Hot
+2011-04-25,summer,2011,Apr,Clear/Partly Cloudy,28.725,4073,"(26.808, 34.427]",Hot
+2011-04-26,summer,2011,Apr,Clear/Partly Cloudy,29.704150000000002,4400,"(26.808, 34.427]",Hot
+2011-04-27,summer,2011,Apr,Misty/Cloudy,28.7571,3872,"(26.808, 34.427]",Hot
+2011-04-28,summer,2011,Apr,Misty/Cloudy,28.946450000000002,4058,"(26.808, 34.427]",Hot
+2011-04-29,summer,2011,Apr,Clear/Partly Cloudy,24.87315,4595,"(19.19, 26.808]",Moderate
+2011-04-30,summer,2011,Apr,Clear/Partly Cloudy,23.201050000000002,5312,"(19.19, 26.808]",Moderate
+2011-05-01,summer,2011,May,Misty/Cloudy,22.4102,3351,"(19.19, 26.808]",Moderate
+2011-05-02,summer,2011,May,Misty/Cloudy,26.64165,4401,"(19.19, 26.808]",Moderate
+2011-05-03,summer,2011,May,Misty/Cloudy,29.10395,4451,"(26.808, 34.427]",Hot
+2011-05-04,summer,2011,May,Misty/Cloudy,20.2325,2633,"(19.19, 26.808]",Moderate
+2011-05-05,summer,2011,May,Clear/Partly Cloudy,22.09585,4433,"(19.19, 26.808]",Moderate
+2011-05-06,summer,2011,May,Clear/Partly Cloudy,23.70585,4608,"(19.19, 26.808]",Moderate
+2011-05-07,summer,2011,May,Clear/Partly Cloudy,25.63105,4714,"(19.19, 26.808]",Moderate
+2011-05-08,summer,2011,May,Clear/Partly Cloudy,25.946649999999998,4333,"(19.19, 26.808]",Moderate
+2011-05-09,summer,2011,May,Clear/Partly Cloudy,26.2623,4362,"(19.19, 26.808]",Moderate
+2011-05-10,summer,2011,May,Clear/Partly Cloudy,26.13605,4803,"(19.19, 26.808]",Moderate
+2011-05-11,summer,2011,May,Clear/Partly Cloudy,26.419999999999998,4182,"(19.19, 26.808]",Moderate
+2011-05-12,summer,2011,May,Clear/Partly Cloudy,26.16815,4864,"(19.19, 26.808]",Moderate
+2011-05-13,summer,2011,May,Misty/Cloudy,24.715,4105,"(19.19, 26.808]",Moderate
+2011-05-14,summer,2011,May,Misty/Cloudy,25.03145,3409,"(19.19, 26.808]",Moderate
+2011-05-15,summer,2011,May,Misty/Cloudy,26.8,4553,"(19.19, 26.808]",Moderate
+2011-05-16,summer,2011,May,Clear/Partly Cloudy,27.5256,3958,"(26.808, 34.427]",Hot
+2011-05-17,summer,2011,May,Misty/Cloudy,26.926450000000003,4123,"(26.808, 34.427]",Hot
+2011-05-18,summer,2011,May,Misty/Cloudy,26.3579,3855,"(19.19, 26.808]",Moderate
+2011-05-19,summer,2011,May,Misty/Cloudy,25.537100000000002,4575,"(19.19, 26.808]",Moderate
+2011-05-20,summer,2011,May,Clear/Partly Cloudy,26.4521,4917,"(19.19, 26.808]",Moderate
+2011-05-21,summer,2011,May,Clear/Partly Cloudy,28.59875,5805,"(26.808, 34.427]",Hot
+2011-05-22,summer,2011,May,Clear/Partly Cloudy,28.725,4660,"(26.808, 34.427]",Hot
+2011-05-23,summer,2011,May,Misty/Cloudy,29.5148,4274,"(26.808, 34.427]",Hot
+2011-05-24,summer,2011,May,Misty/Cloudy,30.240650000000002,4492,"(26.808, 34.427]",Hot
+2011-05-25,summer,2011,May,Clear/Partly Cloudy,30.7771,4978,"(26.808, 34.427]",Hot
+2011-05-26,summer,2011,May,Clear/Partly Cloudy,32.7344,4677,"(26.808, 34.427]",Hot
+2011-05-27,summer,2011,May,Clear/Partly Cloudy,31.8504,4679,"(26.808, 34.427]",Hot
+2011-05-28,summer,2011,May,Clear/Partly Cloudy,30.61895,4758,"(26.808, 34.427]",Hot
+2011-05-29,summer,2011,May,Clear/Partly Cloudy,30.777500000000003,4788,"(26.808, 34.427]",Hot
+2011-05-30,summer,2011,May,Clear/Partly Cloudy,33.5546,4098,"(26.808, 34.427]",Hot
+2011-05-31,summer,2011,May,Clear/Partly Cloudy,36.26915,3982,"(34.427, 42.045]",Very Hot
+2011-06-01,summer,2011,Jun,Misty/Cloudy,36.04835,3974,"(34.427, 42.045]",Very Hot
+2011-06-02,summer,2011,Jun,Clear/Partly Cloudy,32.1971,4968,"(26.808, 34.427]",Hot
+2011-06-03,summer,2011,Jun,Clear/Partly Cloudy,29.356650000000002,5312,"(26.808, 34.427]",Hot
+2011-06-04,summer,2011,Jun,Clear/Partly Cloudy,29.7348,5342,"(26.808, 34.427]",Hot
+2011-06-05,summer,2011,Jun,Misty/Cloudy,30.8402,4906,"(26.808, 34.427]",Hot
+2011-06-06,summer,2011,Jun,Clear/Partly Cloudy,31.0929,4548,"(26.808, 34.427]",Hot
+2011-06-07,summer,2011,Jun,Clear/Partly Cloudy,32.7975,4833,"(26.808, 34.427]",Hot
+2011-06-08,summer,2011,Jun,Clear/Partly Cloudy,36.36395,4401,"(34.427, 42.045]",Very Hot
+2011-06-09,summer,2011,Jun,Misty/Cloudy,37.87895,3915,"(34.427, 42.045]",Very Hot
+2011-06-10,summer,2011,Jun,Clear/Partly Cloudy,35.1646,4586,"(34.427, 42.045]",Very Hot
+2011-06-11,summer,2011,Jun,Clear/Partly Cloudy,33.901900000000005,4966,"(26.808, 34.427]",Hot
+2011-06-12,summer,2011,Jun,Clear/Partly Cloudy,32.166250000000005,4460,"(26.808, 34.427]",Hot
+2011-06-13,summer,2011,Jun,Clear/Partly Cloudy,30.082700000000003,5020,"(26.808, 34.427]",Hot
+2011-06-14,summer,2011,Jun,Clear/Partly Cloudy,29.5773,4891,"(26.808, 34.427]",Hot
+2011-06-15,summer,2011,Jun,Clear/Partly Cloudy,29.3877,5180,"(26.808, 34.427]",Hot
+2011-06-16,summer,2011,Jun,Misty/Cloudy,29.767300000000002,3767,"(26.808, 34.427]",Hot
+2011-06-17,summer,2011,Jun,Clear/Partly Cloudy,30.01915,4844,"(26.808, 34.427]",Hot
+2011-06-18,summer,2011,Jun,Clear/Partly Cloudy,32.197700000000005,5119,"(26.808, 34.427]",Hot
+2011-06-19,summer,2011,Jun,Misty/Cloudy,32.292300000000004,4744,"(26.808, 34.427]",Hot
+2011-06-20,summer,2011,Jun,Misty/Cloudy,29.767300000000002,4010,"(26.808, 34.427]",Hot
+2011-06-21,fall,2011,Jun,Misty/Cloudy,31.8823,4835,"(26.808, 34.427]",Hot
+2011-06-22,fall,2011,Jun,Clear/Partly Cloudy,34.69145,4507,"(34.427, 42.045]",Very Hot
+2011-06-23,fall,2011,Jun,Misty/Cloudy,34.69165,4790,"(34.427, 42.045]",Very Hot
+2011-06-24,fall,2011,Jun,Clear/Partly Cloudy,32.82915,4991,"(26.808, 34.427]",Hot
+2011-06-25,fall,2011,Jun,Clear/Partly Cloudy,32.16565,5202,"(26.808, 34.427]",Hot
+2011-06-26,fall,2011,Jun,Clear/Partly Cloudy,31.88145,5305,"(26.808, 34.427]",Hot
+2011-06-27,fall,2011,Jun,Misty/Cloudy,31.8502,4708,"(26.808, 34.427]",Hot
+2011-06-28,fall,2011,Jun,Clear/Partly Cloudy,34.6279,4648,"(34.427, 42.045]",Very Hot
+2011-06-29,fall,2011,Jun,Clear/Partly Cloudy,32.7344,5225,"(26.808, 34.427]",Hot
+2011-06-30,fall,2011,Jun,Clear/Partly Cloudy,31.8504,5515,"(26.808, 34.427]",Hot
+2011-07-01,fall,2011,Jul,Clear/Partly Cloudy,32.6081,5362,"(26.808, 34.427]",Hot
+2011-07-02,fall,2011,Jul,Clear/Partly Cloudy,33.3654,5119,"(26.808, 34.427]",Hot
+2011-07-03,fall,2011,Jul,Misty/Cloudy,33.42875,4649,"(26.808, 34.427]",Hot
+2011-07-04,fall,2011,Jul,Misty/Cloudy,33.27085,6043,"(26.808, 34.427]",Hot
+2011-07-05,fall,2011,Jul,Clear/Partly Cloudy,34.816900000000004,4665,"(34.427, 42.045]",Very Hot
+2011-07-06,fall,2011,Jul,Clear/Partly Cloudy,34.28165,4629,"(26.808, 34.427]",Hot
+2011-07-07,fall,2011,Jul,Clear/Partly Cloudy,34.34355,4592,"(26.808, 34.427]",Hot
+2011-07-08,fall,2011,Jul,Misty/Cloudy,33.524150000000006,4040,"(26.808, 34.427]",Hot
+2011-07-09,fall,2011,Jul,Clear/Partly Cloudy,33.2079,5336,"(26.808, 34.427]",Hot
+2011-07-10,fall,2011,Jul,Clear/Partly Cloudy,34.50125,4881,"(34.427, 42.045]",Very Hot
+2011-07-11,fall,2011,Jul,Clear/Partly Cloudy,36.4902,4086,"(34.427, 42.045]",Very Hot
+2011-07-12,fall,2011,Jul,Clear/Partly Cloudy,36.96375,4258,"(34.427, 42.045]",Very Hot
+2011-07-13,fall,2011,Jul,Clear/Partly Cloudy,34.4702,4342,"(34.427, 42.045]",Very Hot
+2011-07-14,fall,2011,Jul,Clear/Partly Cloudy,31.7552,5084,"(26.808, 34.427]",Hot
+2011-07-15,fall,2011,Jul,Clear/Partly Cloudy,31.21855,5538,"(26.808, 34.427]",Hot
+2011-07-16,fall,2011,Jul,Clear/Partly Cloudy,31.91315,5923,"(26.808, 34.427]",Hot
+2011-07-17,fall,2011,Jul,Clear/Partly Cloudy,33.49165,5302,"(26.808, 34.427]",Hot
+2011-07-18,fall,2011,Jul,Clear/Partly Cloudy,35.19625,4458,"(34.427, 42.045]",Very Hot
+2011-07-19,fall,2011,Jul,Clear/Partly Cloudy,37.37395,4541,"(34.427, 42.045]",Very Hot
+2011-07-20,fall,2011,Jul,Clear/Partly Cloudy,37.3425,4332,"(34.427, 42.045]",Very Hot
+2011-07-21,fall,2011,Jul,Misty/Cloudy,41.31855,3784,"(34.427, 42.045]",Very Hot
+2011-07-22,fall,2011,Jul,Clear/Partly Cloudy,42.0448,3387,"(34.427, 42.045]",Very Hot
+2011-07-23,fall,2011,Jul,Clear/Partly Cloudy,40.214349999999996,3285,"(34.427, 42.045]",Very Hot
+2011-07-24,fall,2011,Jul,Clear/Partly Cloudy,39.74145,3606,"(34.427, 42.045]",Very Hot
+2011-07-25,fall,2011,Jul,Clear/Partly Cloudy,36.0479,3840,"(34.427, 42.045]",Very Hot
+2011-07-26,fall,2011,Jul,Clear/Partly Cloudy,34.84895,4590,"(34.427, 42.045]",Very Hot
+2011-07-27,fall,2011,Jul,Clear/Partly Cloudy,34.53335,4656,"(34.427, 42.045]",Very Hot
+2011-07-28,fall,2011,Jul,Clear/Partly Cloudy,36.995,4390,"(34.427, 42.045]",Very Hot
+2011-07-29,fall,2011,Jul,Clear/Partly Cloudy,39.29835,3846,"(34.427, 42.045]",Very Hot
+2011-07-30,fall,2011,Jul,Clear/Partly Cloudy,36.42685,4475,"(34.427, 42.045]",Very Hot
+2011-07-31,fall,2011,Jul,Clear/Partly Cloudy,36.4898,4302,"(34.427, 42.045]",Very Hot
+2011-08-01,fall,2011,Aug,Clear/Partly Cloudy,35.1646,4266,"(34.427, 42.045]",Very Hot
+2011-08-02,fall,2011,Aug,Clear/Partly Cloudy,35.35355,4845,"(34.427, 42.045]",Very Hot
+2011-08-03,fall,2011,Aug,Misty/Cloudy,33.99685,3574,"(26.808, 34.427]",Hot
+2011-08-04,fall,2011,Aug,Misty/Cloudy,33.2394,4576,"(26.808, 34.427]",Hot
+2011-08-05,fall,2011,Aug,Clear/Partly Cloudy,32.82835,4866,"(26.808, 34.427]",Hot
+2011-08-06,fall,2011,Aug,Misty/Cloudy,33.807700000000004,4294,"(26.808, 34.427]",Hot
+2011-08-07,fall,2011,Aug,Clear/Partly Cloudy,35.7646,3785,"(34.427, 42.045]",Very Hot
+2011-08-08,fall,2011,Aug,Clear/Partly Cloudy,35.16415,4326,"(34.427, 42.045]",Very Hot
+2011-08-09,fall,2011,Aug,Clear/Partly Cloudy,36.20605,4602,"(34.427, 42.045]",Very Hot
+2011-08-10,fall,2011,Aug,Clear/Partly Cloudy,34.24915,4780,"(26.808, 34.427]",Hot
+2011-08-11,fall,2011,Aug,Clear/Partly Cloudy,32.57605,4792,"(26.808, 34.427]",Hot
+2011-08-12,fall,2011,Aug,Clear/Partly Cloudy,32.7021,4905,"(26.808, 34.427]",Hot
+2011-08-13,fall,2011,Aug,Misty/Cloudy,32.2929,4150,"(26.808, 34.427]",Hot
+2011-08-14,fall,2011,Aug,Misty/Cloudy,31.219400000000004,3820,"(26.808, 34.427]",Hot
+2011-08-15,fall,2011,Aug,Clear/Partly Cloudy,30.80835,4338,"(26.808, 34.427]",Hot
+2011-08-16,fall,2011,Aug,Clear/Partly Cloudy,32.29185,4725,"(26.808, 34.427]",Hot
+2011-08-17,fall,2011,Aug,Clear/Partly Cloudy,33.33355,4694,"(26.808, 34.427]",Hot
+2011-08-18,fall,2011,Aug,Clear/Partly Cloudy,33.1129,3805,"(26.808, 34.427]",Hot
+2011-08-19,fall,2011,Aug,Misty/Cloudy,31.661050000000003,4153,"(26.808, 34.427]",Hot
+2011-08-20,fall,2011,Aug,Clear/Partly Cloudy,32.4498,5191,"(26.808, 34.427]",Hot
+2011-08-21,fall,2011,Aug,Clear/Partly Cloudy,33.776250000000005,3873,"(26.808, 34.427]",Hot
+2011-08-22,fall,2011,Aug,Clear/Partly Cloudy,31.9127,4758,"(26.808, 34.427]",Hot
+2011-08-23,fall,2011,Aug,Clear/Partly Cloudy,30.303350000000002,5895,"(26.808, 34.427]",Hot
+2011-08-24,fall,2011,Aug,Clear/Partly Cloudy,31.5346,5130,"(26.808, 34.427]",Hot
+2011-08-25,fall,2011,Aug,Misty/Cloudy,32.2927,3542,"(26.808, 34.427]",Hot
+2011-08-26,fall,2011,Aug,Clear/Partly Cloudy,32.98665,4661,"(26.808, 34.427]",Hot
+2011-08-27,fall,2011,Aug,Misty/Cloudy,31.7778,1115,"(26.808, 34.427]",Hot
+2011-08-28,fall,2011,Aug,Clear/Partly Cloudy,32.397949999999994,4334,"(26.808, 34.427]",Hot
+2011-08-29,fall,2011,Aug,Clear/Partly Cloudy,30.3979,4634,"(26.808, 34.427]",Hot
+2011-08-30,fall,2011,Aug,Clear/Partly Cloudy,29.7352,5204,"(26.808, 34.427]",Hot
+2011-08-31,fall,2011,Aug,Clear/Partly Cloudy,30.556050000000003,5058,"(26.808, 34.427]",Hot
+2011-09-01,fall,2011,Sep,Clear/Partly Cloudy,30.746050000000004,5115,"(26.808, 34.427]",Hot
+2011-09-02,fall,2011,Sep,Misty/Cloudy,30.2404,4727,"(26.808, 34.427]",Hot
+2011-09-03,fall,2011,Sep,Clear/Partly Cloudy,31.66065,4484,"(26.808, 34.427]",Hot
+2011-09-04,fall,2011,Sep,Clear/Partly Cloudy,33.27145,4940,"(26.808, 34.427]",Hot
+2011-09-05,fall,2011,Sep,Misty/Cloudy,31.282300000000003,3351,"(26.808, 34.427]",Hot
+2011-09-06,fall,2011,Sep,Light Rain/Snow,25.759999999999998,2710,"(19.19, 26.808]",Moderate
+2011-09-07,fall,2011,Sep,Light Rain/Snow,27.21145,1996,"(26.808, 34.427]",Hot
+2011-09-08,fall,2011,Sep,Light Rain/Snow,27.76805,1842,"(26.808, 34.427]",Hot
+2011-09-09,fall,2011,Sep,Misty/Cloudy,28.9473,3544,"(26.808, 34.427]",Hot
+2011-09-10,fall,2011,Sep,Clear/Partly Cloudy,30.3981,5345,"(26.808, 34.427]",Hot
+2011-09-11,fall,2011,Sep,Clear/Partly Cloudy,30.46145,5046,"(26.808, 34.427]",Hot
+2011-09-12,fall,2011,Sep,Clear/Partly Cloudy,30.106500000000004,4713,"(26.808, 34.427]",Hot
+2011-09-13,fall,2011,Sep,Clear/Partly Cloudy,30.1777,4763,"(26.808, 34.427]",Hot
+2011-09-14,fall,2011,Sep,Clear/Partly Cloudy,31.345,4785,"(26.808, 34.427]",Hot
+2011-09-15,fall,2011,Sep,Misty/Cloudy,27.68355,3659,"(26.808, 34.427]",Hot
+2011-09-16,fall,2011,Sep,Misty/Cloudy,23.07375,4760,"(19.19, 26.808]",Moderate
+2011-09-17,fall,2011,Sep,Misty/Cloudy,23.9256,4511,"(19.19, 26.808]",Moderate
+2011-09-18,fall,2011,Sep,Clear/Partly Cloudy,24.52685,4274,"(19.19, 26.808]",Moderate
+2011-09-19,fall,2011,Sep,Misty/Cloudy,26.48375,4539,"(19.19, 26.808]",Moderate
+2011-09-20,fall,2011,Sep,Misty/Cloudy,26.610850000000003,3641,"(19.19, 26.808]",Moderate
+2011-09-21,fall,2011,Sep,Misty/Cloudy,27.526650000000004,4352,"(26.808, 34.427]",Hot
+2011-09-22,fall,2011,Sep,Misty/Cloudy,27.74815,4795,"(26.808, 34.427]",Hot
+2011-09-23,winter,2011,Sep,Misty/Cloudy,26.106249999999996,2395,"(19.19, 26.808]",Moderate
+2011-09-24,winter,2011,Sep,Misty/Cloudy,28.2206,5423,"(26.808, 34.427]",Hot
+2011-09-25,winter,2011,Sep,Misty/Cloudy,28.631849999999996,5010,"(26.808, 34.427]",Hot
+2011-09-26,winter,2011,Sep,Misty/Cloudy,29.452099999999998,4630,"(26.808, 34.427]",Hot
+2011-09-27,winter,2011,Sep,Misty/Cloudy,28.726249999999997,4120,"(26.808, 34.427]",Hot
+2011-09-28,winter,2011,Sep,Misty/Cloudy,28.757899999999996,3907,"(26.808, 34.427]",Hot
+2011-09-29,winter,2011,Sep,Clear/Partly Cloudy,28.7256,4839,"(26.808, 34.427]",Hot
+2011-09-30,winter,2011,Sep,Clear/Partly Cloudy,27.24145,5202,"(26.808, 34.427]",Hot
+2011-10-01,winter,2011,Oct,Misty/Cloudy,20.64315,2429,"(19.19, 26.808]",Moderate
+2011-10-02,winter,2011,Oct,Misty/Cloudy,17.26585,2918,"(11.572, 19.19]",Cold
+2011-10-03,winter,2011,Oct,Misty/Cloudy,19.6023,3570,"(19.19, 26.808]",Moderate
+2011-10-04,winter,2011,Oct,Clear/Partly Cloudy,23.6429,4456,"(19.19, 26.808]",Moderate
+2011-10-05,winter,2011,Oct,Clear/Partly Cloudy,26.3569,4826,"(19.19, 26.808]",Moderate
+2011-10-06,winter,2011,Oct,Clear/Partly Cloudy,24.02125,4765,"(19.19, 26.808]",Moderate
+2011-10-07,winter,2011,Oct,Clear/Partly Cloudy,25.2202,4985,"(19.19, 26.808]",Moderate
+2011-10-08,winter,2011,Oct,Clear/Partly Cloudy,25.6621,5409,"(19.19, 26.808]",Moderate
+2011-10-09,winter,2011,Oct,Clear/Partly Cloudy,26.19915,5511,"(19.19, 26.808]",Moderate
+2011-10-10,winter,2011,Oct,Clear/Partly Cloudy,27.14625,5117,"(26.808, 34.427]",Hot
+2011-10-11,winter,2011,Oct,Misty/Cloudy,27.3048,4563,"(26.808, 34.427]",Hot
+2011-10-12,winter,2011,Oct,Light Rain/Snow,25.885849999999998,2416,"(19.19, 26.808]",Moderate
+2011-10-13,winter,2011,Oct,Misty/Cloudy,27.5902,2913,"(26.808, 34.427]",Hot
+2011-10-14,winter,2011,Oct,Misty/Cloudy,26.48375,3644,"(19.19, 26.808]",Moderate
+2011-10-15,winter,2011,Oct,Clear/Partly Cloudy,24.936249999999998,5217,"(19.19, 26.808]",Moderate
+2011-10-16,winter,2011,Oct,Clear/Partly Cloudy,25.1577,5041,"(19.19, 26.808]",Moderate
+2011-10-17,winter,2011,Oct,Clear/Partly Cloudy,25.53625,4570,"(19.19, 26.808]",Moderate
+2011-10-18,winter,2011,Oct,Misty/Cloudy,26.13605,4748,"(19.19, 26.808]",Moderate
+2011-10-19,winter,2011,Oct,Light Rain/Snow,25.6924,2424,"(19.19, 26.808]",Moderate
+2011-10-20,winter,2011,Oct,Clear/Partly Cloudy,23.32625,4195,"(19.19, 26.808]",Moderate
+2011-10-21,winter,2011,Oct,Clear/Partly Cloudy,21.1798,4304,"(19.19, 26.808]",Moderate
+2011-10-22,winter,2011,Oct,Clear/Partly Cloudy,21.2746,4308,"(19.19, 26.808]",Moderate
+2011-10-23,winter,2011,Oct,Clear/Partly Cloudy,21.11665,4381,"(19.19, 26.808]",Moderate
+2011-10-24,winter,2011,Oct,Clear/Partly Cloudy,22.85335,4187,"(19.19, 26.808]",Moderate
+2011-10-25,winter,2011,Oct,Clear/Partly Cloudy,23.16875,4687,"(19.19, 26.808]",Moderate
+2011-10-26,winter,2011,Oct,Misty/Cloudy,23.6423,3894,"(19.19, 26.808]",Moderate
+2011-10-27,winter,2011,Oct,Misty/Cloudy,22.8523,2659,"(19.19, 26.808]",Moderate
+2011-10-28,winter,2011,Oct,Misty/Cloudy,15.9406,3747,"(11.572, 19.19]",Cold
+2011-10-29,winter,2011,Oct,Light Rain/Snow,11.39565,627,"(3.952, 11.572]",Very Cold
+2011-10-30,winter,2011,Oct,Clear/Partly Cloudy,16.06645,3331,"(11.572, 19.19]",Cold
+2011-10-31,winter,2011,Oct,Clear/Partly Cloudy,17.803150000000002,3669,"(11.572, 19.19]",Cold
+2011-11-01,winter,2011,Nov,Clear/Partly Cloudy,19.8544,4068,"(19.19, 26.808]",Moderate
+2011-11-02,winter,2011,Nov,Clear/Partly Cloudy,19.50665,4186,"(19.19, 26.808]",Moderate
+2011-11-03,winter,2011,Nov,Clear/Partly Cloudy,20.296049999999997,3974,"(19.19, 26.808]",Moderate
+2011-11-04,winter,2011,Nov,Misty/Cloudy,20.1696,4046,"(19.19, 26.808]",Moderate
+2011-11-05,winter,2011,Nov,Clear/Partly Cloudy,16.1927,3926,"(11.572, 19.19]",Cold
+2011-11-06,winter,2011,Nov,Clear/Partly Cloudy,18.117900000000002,3649,"(11.572, 19.19]",Cold
+2011-11-07,winter,2011,Nov,Clear/Partly Cloudy,20.04355,4035,"(19.19, 26.808]",Moderate
+2011-11-08,winter,2011,Nov,Clear/Partly Cloudy,20.6123,4205,"(19.19, 26.808]",Moderate
+2011-11-09,winter,2011,Nov,Clear/Partly Cloudy,20.453950000000003,4109,"(19.19, 26.808]",Moderate
+2011-11-10,winter,2011,Nov,Misty/Cloudy,18.68605,2933,"(11.572, 19.19]",Cold
+2011-11-11,winter,2011,Nov,Clear/Partly Cloudy,15.34085,3368,"(11.572, 19.19]",Cold
+2011-11-12,winter,2011,Nov,Clear/Partly Cloudy,17.8971,4067,"(11.572, 19.19]",Cold
+2011-11-13,winter,2011,Nov,Clear/Partly Cloudy,21.5275,3717,"(19.19, 26.808]",Moderate
+2011-11-14,winter,2011,Nov,Clear/Partly Cloudy,26.2306,4486,"(19.19, 26.808]",Moderate
+2011-11-15,winter,2011,Nov,Misty/Cloudy,25.37895,4195,"(19.19, 26.808]",Moderate
+2011-11-16,winter,2011,Nov,Light Rain/Snow,22.5994,1817,"(19.19, 26.808]",Moderate
+2011-11-17,winter,2011,Nov,Misty/Cloudy,16.16105,3053,"(11.572, 19.19]",Cold
+2011-11-18,winter,2011,Nov,Clear/Partly Cloudy,13.63605,3392,"(11.572, 19.19]",Cold
+2011-11-19,winter,2011,Nov,Clear/Partly Cloudy,16.22415,3663,"(11.572, 19.19]",Cold
+2011-11-20,winter,2011,Nov,Misty/Cloudy,22.8529,3520,"(19.19, 26.808]",Moderate
+2011-11-21,winter,2011,Nov,Light Rain/Snow,22.2531,2765,"(19.19, 26.808]",Moderate
+2011-11-22,winter,2011,Nov,Light Rain/Snow,21.0848,1607,"(19.19, 26.808]",Moderate
+2011-11-23,winter,2011,Nov,Misty/Cloudy,21.52685,2566,"(19.19, 26.808]",Moderate
+2011-11-24,winter,2011,Nov,Clear/Partly Cloudy,18.62355,1495,"(11.572, 19.19]",Cold
+2011-11-25,winter,2011,Nov,Clear/Partly Cloudy,19.033549999999998,2792,"(11.572, 19.19]",Cold
+2011-11-26,winter,2011,Nov,Clear/Partly Cloudy,19.254350000000002,3068,"(19.19, 26.808]",Moderate
+2011-11-27,winter,2011,Nov,Clear/Partly Cloudy,22.79,3071,"(19.19, 26.808]",Moderate
+2011-11-28,winter,2011,Nov,Clear/Partly Cloudy,24.5061,3867,"(19.19, 26.808]",Moderate
+2011-11-29,winter,2011,Nov,Misty/Cloudy,22.56875,2914,"(19.19, 26.808]",Moderate
+2011-11-30,winter,2011,Nov,Clear/Partly Cloudy,15.561050000000002,3613,"(11.572, 19.19]",Cold
+2011-12-01,winter,2011,Dec,Clear/Partly Cloudy,15.2777,3727,"(11.572, 19.19]",Cold
+2011-12-02,winter,2011,Dec,Clear/Partly Cloudy,16.571649999999998,3940,"(11.572, 19.19]",Cold
+2011-12-03,winter,2011,Dec,Clear/Partly Cloudy,15.530199999999999,3614,"(11.572, 19.19]",Cold
+2011-12-04,winter,2011,Dec,Clear/Partly Cloudy,17.455000000000002,3485,"(11.572, 19.19]",Cold
+2011-12-05,winter,2011,Dec,Misty/Cloudy,19.696250000000003,3811,"(19.19, 26.808]",Moderate
+2011-12-06,winter,2011,Dec,Light Rain/Snow,22.82,2594,"(19.19, 26.808]",Moderate
+2011-12-07,winter,2011,Dec,Light Rain/Snow,20.0123,705,"(19.19, 26.808]",Moderate
+2011-12-08,winter,2011,Dec,Clear/Partly Cloudy,12.8469,3322,"(11.572, 19.19]",Cold
+2011-12-09,winter,2011,Dec,Clear/Partly Cloudy,15.877099999999999,3620,"(11.572, 19.19]",Cold
+2011-12-10,winter,2011,Dec,Clear/Partly Cloudy,13.320599999999999,3190,"(11.572, 19.19]",Cold
+2011-12-11,winter,2011,Dec,Clear/Partly Cloudy,12.6577,2743,"(11.572, 19.19]",Cold
+2011-12-12,winter,2011,Dec,Clear/Partly Cloudy,13.5098,3310,"(11.572, 19.19]",Cold
+2011-12-13,winter,2011,Dec,Clear/Partly Cloudy,15.0569,3523,"(11.572, 19.19]",Cold
+2011-12-14,winter,2011,Dec,Misty/Cloudy,16.9181,3740,"(11.572, 19.19]",Cold
+2011-12-15,winter,2011,Dec,Misty/Cloudy,20.61185,3709,"(19.19, 26.808]",Moderate
+2011-12-16,winter,2011,Dec,Misty/Cloudy,17.99125,3577,"(11.572, 19.19]",Cold
+2011-12-17,winter,2011,Dec,Misty/Cloudy,12.46855,2739,"(11.572, 19.19]",Cold
+2011-12-18,winter,2011,Dec,Clear/Partly Cloudy,12.27895,2431,"(11.572, 19.19]",Cold
+2011-12-19,winter,2011,Dec,Clear/Partly Cloudy,14.04665,3403,"(11.572, 19.19]",Cold
+2011-12-20,winter,2011,Dec,Misty/Cloudy,19.822699999999998,3750,"(19.19, 26.808]",Moderate
+2011-12-21,spring,2011,Dec,Misty/Cloudy,21.40085,2660,"(19.19, 26.808]",Moderate
+2011-12-22,spring,2011,Dec,Misty/Cloudy,21.306050000000003,3068,"(19.19, 26.808]",Moderate
+2011-12-23,spring,2011,Dec,Clear/Partly Cloudy,18.87565,2209,"(11.572, 19.19]",Cold
+2011-12-24,spring,2011,Dec,Clear/Partly Cloudy,14.9621,1011,"(11.572, 19.19]",Cold
+2011-12-25,spring,2011,Dec,Clear/Partly Cloudy,13.998050000000001,754,"(11.572, 19.19]",Cold
+2011-12-26,spring,2011,Dec,Clear/Partly Cloudy,15.77675,1317,"(11.572, 19.19]",Cold
+2011-12-27,spring,2011,Dec,Misty/Cloudy,16.38165,1162,"(11.572, 19.19]",Cold
+2011-12-28,spring,2011,Dec,Clear/Partly Cloudy,13.9987,2302,"(11.572, 19.19]",Cold
+2011-12-29,spring,2011,Dec,Clear/Partly Cloudy,13.194600000000001,2423,"(11.572, 19.19]",Cold
+2011-12-30,spring,2011,Dec,Clear/Partly Cloudy,15.9406,2999,"(11.572, 19.19]",Cold
+2011-12-31,spring,2011,Dec,Clear/Partly Cloudy,20.70605,2485,"(19.19, 26.808]",Moderate
+2012-01-01,spring,2012,Jan,Clear/Partly Cloudy,18.78105,2294,"(11.572, 19.19]",Cold
+2012-01-02,spring,2012,Jan,Clear/Partly Cloudy,12.615199999999998,1951,"(11.572, 19.19]",Cold
+2012-01-03,spring,2012,Jan,Clear/Partly Cloudy,6.31375,2236,"(3.952, 11.572]",Very Cold
+2012-01-04,spring,2012,Jan,Misty/Cloudy,5.96685,2368,"(3.952, 11.572]",Very Cold
+2012-01-05,spring,2012,Jan,Clear/Partly Cloudy,13.9206,3272,"(11.572, 19.19]",Cold
+2012-01-06,spring,2012,Jan,Clear/Partly Cloudy,17.01335,4098,"(11.572, 19.19]",Cold
+2012-01-07,spring,2012,Jan,Clear/Partly Cloudy,19.53895,4521,"(19.19, 26.808]",Moderate
+2012-01-08,spring,2012,Jan,Clear/Partly Cloudy,17.012900000000002,3425,"(11.572, 19.19]",Cold
+2012-01-09,spring,2012,Jan,Misty/Cloudy,12.37395,2376,"(11.572, 19.19]",Cold
+2012-01-10,spring,2012,Jan,Clear/Partly Cloudy,15.9413,3598,"(11.572, 19.19]",Cold
+2012-01-11,spring,2012,Jan,Misty/Cloudy,14.14105,2177,"(11.572, 19.19]",Cold
+2012-01-12,spring,2012,Jan,Misty/Cloudy,19.0969,4097,"(11.572, 19.19]",Cold
+2012-01-13,spring,2012,Jan,Clear/Partly Cloudy,12.4681,3214,"(11.572, 19.19]",Cold
+2012-01-14,spring,2012,Jan,Clear/Partly Cloudy,9.15435,2493,"(3.952, 11.572]",Very Cold
+2012-01-15,spring,2012,Jan,Clear/Partly Cloudy,8.081249999999999,2311,"(3.952, 11.572]",Very Cold
+2012-01-16,spring,2012,Jan,Clear/Partly Cloudy,9.53315,2298,"(3.952, 11.572]",Very Cold
+2012-01-17,spring,2012,Jan,Misty/Cloudy,18.2139,2935,"(11.572, 19.19]",Cold
+2012-01-18,spring,2012,Jan,Clear/Partly Cloudy,13.7627,3376,"(11.572, 19.19]",Cold
+2012-01-19,spring,2012,Jan,Clear/Partly Cloudy,9.501900000000001,3292,"(3.952, 11.572]",Very Cold
+2012-01-20,spring,2012,Jan,Misty/Cloudy,11.047899999999998,3163,"(3.952, 11.572]",Very Cold
+2012-01-21,spring,2012,Jan,Misty/Cloudy,8.74375,1301,"(3.952, 11.572]",Very Cold
+2012-01-22,spring,2012,Jan,Misty/Cloudy,8.1125,1977,"(3.952, 11.572]",Very Cold
+2012-01-23,spring,2012,Jan,Misty/Cloudy,12.152899999999999,2432,"(11.572, 19.19]",Cold
+2012-01-24,spring,2012,Jan,Clear/Partly Cloudy,17.455399999999997,4339,"(11.572, 19.19]",Cold
+2012-01-25,spring,2012,Jan,Clear/Partly Cloudy,14.74105,4270,"(11.572, 19.19]",Cold
+2012-01-26,spring,2012,Jan,Misty/Cloudy,17.8025,4075,"(11.572, 19.19]",Cold
+2012-01-27,spring,2012,Jan,Misty/Cloudy,20.76915,3456,"(19.19, 26.808]",Moderate
+2012-01-28,spring,2012,Jan,Clear/Partly Cloudy,16.318949999999997,4023,"(11.572, 19.19]",Cold
+2012-01-29,spring,2012,Jan,Clear/Partly Cloudy,13.63605,3243,"(11.572, 19.19]",Cold
+2012-01-30,spring,2012,Jan,Clear/Partly Cloudy,13.13125,3624,"(11.572, 19.19]",Cold
+2012-01-31,spring,2012,Jan,Clear/Partly Cloudy,19.06585,4509,"(11.572, 19.19]",Cold
+2012-02-01,spring,2012,Feb,Clear/Partly Cloudy,23.326900000000002,4579,"(19.19, 26.808]",Moderate
+2012-02-02,spring,2012,Feb,Misty/Cloudy,19.94855,3761,"(19.19, 26.808]",Moderate
+2012-02-03,spring,2012,Feb,Clear/Partly Cloudy,15.4673,4151,"(11.572, 19.19]",Cold
+2012-02-04,spring,2012,Feb,Misty/Cloudy,13.63625,2832,"(11.572, 19.19]",Cold
+2012-02-05,spring,2012,Feb,Misty/Cloudy,13.22605,2947,"(11.572, 19.19]",Cold
+2012-02-06,spring,2012,Feb,Clear/Partly Cloudy,14.8213,3784,"(11.572, 19.19]",Cold
+2012-02-07,spring,2012,Feb,Clear/Partly Cloudy,18.0552,4375,"(11.572, 19.19]",Cold
+2012-02-08,spring,2012,Feb,Misty/Cloudy,13.321050000000001,2802,"(11.572, 19.19]",Cold
+2012-02-09,spring,2012,Feb,Clear/Partly Cloudy,13.0994,3830,"(11.572, 19.19]",Cold
+2012-02-10,spring,2012,Feb,Misty/Cloudy,14.6779,3831,"(11.572, 19.19]",Cold
+2012-02-11,spring,2012,Feb,Light Rain/Snow,10.54335,2169,"(3.952, 11.572]",Very Cold
+2012-02-12,spring,2012,Feb,Clear/Partly Cloudy,5.0828999999999995,1529,"(3.952, 11.572]",Very Cold
+2012-02-13,spring,2012,Feb,Clear/Partly Cloudy,11.39565,3422,"(3.952, 11.572]",Very Cold
+2012-02-14,spring,2012,Feb,Misty/Cloudy,16.697300000000002,3922,"(11.572, 19.19]",Cold
+2012-02-15,spring,2012,Feb,Clear/Partly Cloudy,17.58145,4169,"(11.572, 19.19]",Cold
+2012-02-16,spring,2012,Feb,Misty/Cloudy,16.5081,3005,"(11.572, 19.19]",Cold
+2012-02-17,spring,2012,Feb,Clear/Partly Cloudy,17.58145,4154,"(11.572, 19.19]",Cold
+2012-02-18,spring,2012,Feb,Clear/Partly Cloudy,17.77125,4318,"(11.572, 19.19]",Cold
+2012-02-19,spring,2012,Feb,Misty/Cloudy,13.2894,2689,"(11.572, 19.19]",Cold
+2012-02-20,spring,2012,Feb,Clear/Partly Cloudy,13.66955,3129,"(11.572, 19.19]",Cold
+2012-02-21,spring,2012,Feb,Clear/Partly Cloudy,14.755650000000001,3777,"(11.572, 19.19]",Cold
+2012-02-22,spring,2012,Feb,Clear/Partly Cloudy,19.63335,4773,"(19.19, 26.808]",Moderate
+2012-02-23,spring,2012,Feb,Clear/Partly Cloudy,22.2223,5062,"(19.19, 26.808]",Moderate
+2012-02-24,spring,2012,Feb,Misty/Cloudy,20.54855,3487,"(19.19, 26.808]",Moderate
+2012-02-25,spring,2012,Feb,Clear/Partly Cloudy,12.78375,2732,"(11.572, 19.19]",Cold
+2012-02-26,spring,2012,Feb,Clear/Partly Cloudy,13.4154,3389,"(11.572, 19.19]",Cold
+2012-02-27,spring,2012,Feb,Clear/Partly Cloudy,17.8977,4322,"(11.572, 19.19]",Cold
+2012-02-28,spring,2012,Feb,Clear/Partly Cloudy,17.67625,4363,"(11.572, 19.19]",Cold
+2012-02-29,spring,2012,Feb,Misty/Cloudy,17.4235,1834,"(11.572, 19.19]",Cold
+2012-03-01,spring,2012,Mar,Clear/Partly Cloudy,23.768549999999998,4990,"(19.19, 26.808]",Moderate
+2012-03-02,spring,2012,Mar,Misty/Cloudy,17.9921,3194,"(11.572, 19.19]",Cold
+2012-03-03,spring,2012,Mar,Misty/Cloudy,20.6746,4066,"(19.19, 26.808]",Moderate
+2012-03-04,spring,2012,Mar,Clear/Partly Cloudy,15.15105,3423,"(11.572, 19.19]",Cold
+2012-03-05,spring,2012,Mar,Clear/Partly Cloudy,12.05855,3333,"(11.572, 19.19]",Cold
+2012-03-06,spring,2012,Mar,Clear/Partly Cloudy,12.752099999999999,3956,"(11.572, 19.19]",Cold
+2012-03-07,spring,2012,Mar,Clear/Partly Cloudy,19.255,4916,"(19.19, 26.808]",Moderate
+2012-03-08,spring,2012,Mar,Clear/Partly Cloudy,26.230199999999996,5382,"(19.19, 26.808]",Moderate
+2012-03-09,spring,2012,Mar,Misty/Cloudy,19.85415,4569,"(19.19, 26.808]",Moderate
+2012-03-10,spring,2012,Mar,Clear/Partly Cloudy,13.888349999999999,4118,"(11.572, 19.19]",Cold
+2012-03-11,spring,2012,Mar,Clear/Partly Cloudy,17.9835,4911,"(11.572, 19.19]",Cold
+2012-03-12,spring,2012,Mar,Clear/Partly Cloudy,22.9796,5298,"(19.19, 26.808]",Moderate
+2012-03-13,spring,2012,Mar,Clear/Partly Cloudy,27.14645,5847,"(26.808, 34.427]",Hot
+2012-03-14,spring,2012,Mar,Clear/Partly Cloudy,27.43085,6312,"(26.808, 34.427]",Hot
+2012-03-15,spring,2012,Mar,Clear/Partly Cloudy,26.64125,6192,"(19.19, 26.808]",Moderate
+2012-03-16,spring,2012,Mar,Misty/Cloudy,21.81145,4378,"(19.19, 26.808]",Moderate
+2012-03-17,spring,2012,Mar,Misty/Cloudy,25.252299999999998,7836,"(19.19, 26.808]",Moderate
+2012-03-18,spring,2012,Mar,Misty/Cloudy,23.200000000000003,5892,"(19.19, 26.808]",Moderate
+2012-03-19,spring,2012,Mar,Clear/Partly Cloudy,26.64105,6153,"(19.19, 26.808]",Moderate
+2012-03-20,spring,2012,Mar,Clear/Partly Cloudy,26.926650000000002,6093,"(26.808, 34.427]",Hot
+2012-03-21,summer,2012,Mar,Misty/Cloudy,25.6629,6230,"(19.19, 26.808]",Moderate
+2012-03-22,summer,2012,Mar,Clear/Partly Cloudy,26.57835,6871,"(19.19, 26.808]",Moderate
+2012-03-23,summer,2012,Mar,Misty/Cloudy,28.50335,8362,"(26.808, 34.427]",Hot
+2012-03-24,summer,2012,Mar,Misty/Cloudy,24.336650000000002,3372,"(19.19, 26.808]",Moderate
+2012-03-25,summer,2012,Mar,Misty/Cloudy,21.874399999999998,4996,"(19.19, 26.808]",Moderate
+2012-03-26,summer,2012,Mar,Clear/Partly Cloudy,21.9375,5558,"(19.19, 26.808]",Moderate
+2012-03-27,summer,2012,Mar,Clear/Partly Cloudy,15.7827,5102,"(11.572, 19.19]",Cold
+2012-03-28,summer,2012,Mar,Clear/Partly Cloudy,23.5475,5698,"(19.19, 26.808]",Moderate
+2012-03-29,summer,2012,Mar,Clear/Partly Cloudy,24.1152,6133,"(19.19, 26.808]",Moderate
+2012-03-30,summer,2012,Mar,Misty/Cloudy,18.78105,5459,"(11.572, 19.19]",Cold
+2012-03-31,summer,2012,Mar,Misty/Cloudy,21.0854,6235,"(19.19, 26.808]",Moderate
+2012-04-01,summer,2012,Apr,Misty/Cloudy,20.86435,6041,"(19.19, 26.808]",Moderate
+2012-04-02,summer,2012,Apr,Clear/Partly Cloudy,21.37565,5936,"(19.19, 26.808]",Moderate
+2012-04-03,summer,2012,Apr,Clear/Partly Cloudy,23.07415,6772,"(19.19, 26.808]",Moderate
+2012-04-04,summer,2012,Apr,Clear/Partly Cloudy,26.6725,6436,"(19.19, 26.808]",Moderate
+2012-04-05,summer,2012,Apr,Clear/Partly Cloudy,21.55815,6457,"(19.19, 26.808]",Moderate
+2012-04-06,summer,2012,Apr,Clear/Partly Cloudy,19.538349999999998,6460,"(19.19, 26.808]",Moderate
+2012-04-07,summer,2012,Apr,Clear/Partly Cloudy,21.306449999999998,6857,"(19.19, 26.808]",Moderate
+2012-04-08,summer,2012,Apr,Clear/Partly Cloudy,24.62125,5169,"(19.19, 26.808]",Moderate
+2012-04-09,summer,2012,Apr,Clear/Partly Cloudy,23.8319,5585,"(19.19, 26.808]",Moderate
+2012-04-10,summer,2012,Apr,Clear/Partly Cloudy,21.81165,5918,"(19.19, 26.808]",Moderate
+2012-04-11,summer,2012,Apr,Clear/Partly Cloudy,16.8637,4862,"(11.572, 19.19]",Cold
+2012-04-12,summer,2012,Apr,Clear/Partly Cloudy,19.3802,5409,"(19.19, 26.808]",Moderate
+2012-04-13,summer,2012,Apr,Clear/Partly Cloudy,21.590400000000002,6398,"(19.19, 26.808]",Moderate
+2012-04-14,summer,2012,Apr,Clear/Partly Cloudy,24.3998,7460,"(19.19, 26.808]",Moderate
+2012-04-15,summer,2012,Apr,Clear/Partly Cloudy,28.69375,7132,"(26.808, 34.427]",Hot
+2012-04-16,summer,2012,Apr,Clear/Partly Cloudy,30.746250000000003,6370,"(26.808, 34.427]",Hot
+2012-04-17,summer,2012,Apr,Clear/Partly Cloudy,29.92435,6691,"(26.808, 34.427]",Hot
+2012-04-18,summer,2012,Apr,Misty/Cloudy,22.8519,4367,"(19.19, 26.808]",Moderate
+2012-04-19,summer,2012,Apr,Clear/Partly Cloudy,24.6523,6565,"(19.19, 26.808]",Moderate
+2012-04-20,summer,2012,Apr,Clear/Partly Cloudy,25.78875,7290,"(19.19, 26.808]",Moderate
+2012-04-21,summer,2012,Apr,Clear/Partly Cloudy,27.14605,6624,"(26.808, 34.427]",Hot
+2012-04-22,summer,2012,Apr,Light Rain/Snow,19.4752,1027,"(19.19, 26.808]",Moderate
+2012-04-23,summer,2012,Apr,Misty/Cloudy,15.056249999999999,3214,"(11.572, 19.19]",Cold
+2012-04-24,summer,2012,Apr,Clear/Partly Cloudy,20.26415,5633,"(19.19, 26.808]",Moderate
+2012-04-25,summer,2012,Apr,Clear/Partly Cloudy,23.51585,6196,"(19.19, 26.808]",Moderate
+2012-04-26,summer,2012,Apr,Misty/Cloudy,24.17915,5026,"(19.19, 26.808]",Moderate
+2012-04-27,summer,2012,Apr,Clear/Partly Cloudy,22.63185,6233,"(19.19, 26.808]",Moderate
+2012-04-28,summer,2012,Apr,Misty/Cloudy,18.8752,4220,"(11.572, 19.19]",Cold
+2012-04-29,summer,2012,Apr,Clear/Partly Cloudy,22.50605,6304,"(19.19, 26.808]",Moderate
+2012-04-30,summer,2012,Apr,Misty/Cloudy,22.8848,5572,"(19.19, 26.808]",Moderate
+2012-05-01,summer,2012,May,Misty/Cloudy,28.85105,5740,"(26.808, 34.427]",Hot
+2012-05-02,summer,2012,May,Clear/Partly Cloudy,26.894800000000004,6169,"(26.808, 34.427]",Hot
+2012-05-03,summer,2012,May,Misty/Cloudy,26.862099999999998,6421,"(26.808, 34.427]",Hot
+2012-05-04,summer,2012,May,Clear/Partly Cloudy,29.54585,6296,"(26.808, 34.427]",Hot
+2012-05-05,summer,2012,May,Misty/Cloudy,29.2304,6883,"(26.808, 34.427]",Hot
+2012-05-06,summer,2012,May,Misty/Cloudy,27.336850000000002,6359,"(26.808, 34.427]",Hot
+2012-05-07,summer,2012,May,Misty/Cloudy,26.3571,6273,"(19.19, 26.808]",Moderate
+2012-05-08,summer,2012,May,Misty/Cloudy,27.87355,5728,"(26.808, 34.427]",Hot
+2012-05-09,summer,2012,May,Misty/Cloudy,27.65125,4717,"(26.808, 34.427]",Hot
+2012-05-10,summer,2012,May,Clear/Partly Cloudy,24.58915,6572,"(19.19, 26.808]",Moderate
+2012-05-11,summer,2012,May,Clear/Partly Cloudy,26.04165,7030,"(19.19, 26.808]",Moderate
+2012-05-12,summer,2012,May,Clear/Partly Cloudy,27.24085,7429,"(26.808, 34.427]",Hot
+2012-05-13,summer,2012,May,Clear/Partly Cloudy,29.2619,6118,"(26.808, 34.427]",Hot
+2012-05-14,summer,2012,May,Misty/Cloudy,27.495000000000005,2843,"(26.808, 34.427]",Hot
+2012-05-15,summer,2012,May,Misty/Cloudy,28.8202,5115,"(26.808, 34.427]",Hot
+2012-05-16,summer,2012,May,Clear/Partly Cloudy,29.798750000000002,7424,"(26.808, 34.427]",Hot
+2012-05-17,summer,2012,May,Clear/Partly Cloudy,28.630650000000003,7384,"(26.808, 34.427]",Hot
+2012-05-18,summer,2012,May,Clear/Partly Cloudy,27.55605,7639,"(26.808, 34.427]",Hot
+2012-05-19,summer,2012,May,Clear/Partly Cloudy,28.345399999999998,8294,"(26.808, 34.427]",Hot
+2012-05-20,summer,2012,May,Clear/Partly Cloudy,29.19835,7129,"(26.808, 34.427]",Hot
+2012-05-21,summer,2012,May,Misty/Cloudy,28.283350000000002,4359,"(26.808, 34.427]",Hot
+2012-05-22,summer,2012,May,Misty/Cloudy,29.04125,6073,"(26.808, 34.427]",Hot
+2012-05-23,summer,2012,May,Misty/Cloudy,29.230600000000003,5260,"(26.808, 34.427]",Hot
+2012-05-24,summer,2012,May,Clear/Partly Cloudy,30.335,6770,"(26.808, 34.427]",Hot
+2012-05-25,summer,2012,May,Clear/Partly Cloudy,31.37645,6734,"(26.808, 34.427]",Hot
+2012-05-26,summer,2012,May,Clear/Partly Cloudy,32.134800000000006,6536,"(26.808, 34.427]",Hot
+2012-05-27,summer,2012,May,Clear/Partly Cloudy,32.07125,6591,"(26.808, 34.427]",Hot
+2012-05-28,summer,2012,May,Clear/Partly Cloudy,33.965,6043,"(26.808, 34.427]",Hot
+2012-05-29,summer,2012,May,Clear/Partly Cloudy,33.6496,5743,"(26.808, 34.427]",Hot
+2012-05-30,summer,2012,May,Misty/Cloudy,30.55645,6855,"(26.808, 34.427]",Hot
+2012-05-31,summer,2012,May,Clear/Partly Cloudy,31.566450000000003,7338,"(26.808, 34.427]",Hot
+2012-06-01,summer,2012,Jun,Misty/Cloudy,30.3981,4127,"(26.808, 34.427]",Hot
+2012-06-02,summer,2012,Jun,Clear/Partly Cloudy,28.3144,8120,"(26.808, 34.427]",Hot
+2012-06-03,summer,2012,Jun,Clear/Partly Cloudy,28.75665,7641,"(26.808, 34.427]",Hot
+2012-06-04,summer,2012,Jun,Clear/Partly Cloudy,28.91415,6998,"(26.808, 34.427]",Hot
+2012-06-05,summer,2012,Jun,Misty/Cloudy,26.294600000000003,7001,"(19.19, 26.808]",Moderate
+2012-06-06,summer,2012,Jun,Clear/Partly Cloudy,27.1146,7055,"(26.808, 34.427]",Hot
+2012-06-07,summer,2012,Jun,Clear/Partly Cloudy,28.4721,7494,"(26.808, 34.427]",Hot
+2012-06-08,summer,2012,Jun,Clear/Partly Cloudy,29.8931,7736,"(26.808, 34.427]",Hot
+2012-06-09,summer,2012,Jun,Clear/Partly Cloudy,32.418350000000004,7498,"(26.808, 34.427]",Hot
+2012-06-10,summer,2012,Jun,Clear/Partly Cloudy,33.175850000000004,6598,"(26.808, 34.427]",Hot
+2012-06-11,summer,2012,Jun,Misty/Cloudy,32.98605,6664,"(26.808, 34.427]",Hot
+2012-06-12,summer,2012,Jun,Misty/Cloudy,29.89375,4972,"(26.808, 34.427]",Hot
+2012-06-13,summer,2012,Jun,Clear/Partly Cloudy,30.55585,7421,"(26.808, 34.427]",Hot
+2012-06-14,summer,2012,Jun,Clear/Partly Cloudy,31.219150000000003,7363,"(26.808, 34.427]",Hot
+2012-06-15,summer,2012,Jun,Clear/Partly Cloudy,29.9877,7665,"(26.808, 34.427]",Hot
+2012-06-16,summer,2012,Jun,Clear/Partly Cloudy,29.735400000000002,7702,"(26.808, 34.427]",Hot
+2012-06-17,summer,2012,Jun,Clear/Partly Cloudy,28.59875,6978,"(26.808, 34.427]",Hot
+2012-06-18,summer,2012,Jun,Misty/Cloudy,27.2421,5099,"(26.808, 34.427]",Hot
+2012-06-19,summer,2012,Jun,Clear/Partly Cloudy,32.7346,6825,"(26.808, 34.427]",Hot
+2012-06-20,summer,2012,Jun,Clear/Partly Cloudy,36.04875,6211,"(34.427, 42.045]",Very Hot
+2012-06-21,fall,2012,Jun,Clear/Partly Cloudy,37.6271,5905,"(34.427, 42.045]",Very Hot
+2012-06-22,fall,2012,Jun,Clear/Partly Cloudy,36.20605,5823,"(34.427, 42.045]",Very Hot
+2012-06-23,fall,2012,Jun,Clear/Partly Cloudy,32.6396,7458,"(26.808, 34.427]",Hot
+2012-06-24,fall,2012,Jun,Clear/Partly Cloudy,33.7127,6891,"(26.808, 34.427]",Hot
+2012-06-25,fall,2012,Jun,Clear/Partly Cloudy,32.7021,6779,"(26.808, 34.427]",Hot
+2012-06-26,fall,2012,Jun,Clear/Partly Cloudy,29.7352,7442,"(26.808, 34.427]",Hot
+2012-06-27,fall,2012,Jun,Clear/Partly Cloudy,32.0396,7335,"(26.808, 34.427]",Hot
+2012-06-28,fall,2012,Jun,Clear/Partly Cloudy,33.7756,6879,"(26.808, 34.427]",Hot
+2012-06-29,fall,2012,Jun,Clear/Partly Cloudy,39.33065,5463,"(34.427, 42.045]",Very Hot
+2012-06-30,fall,2012,Jun,Clear/Partly Cloudy,34.3754,5687,"(26.808, 34.427]",Hot
+2012-07-01,fall,2012,Jul,Clear/Partly Cloudy,37.53145,5531,"(34.427, 42.045]",Very Hot
+2012-07-02,fall,2012,Jul,Clear/Partly Cloudy,35.1019,6227,"(34.427, 42.045]",Very Hot
+2012-07-03,fall,2012,Jul,Clear/Partly Cloudy,35.1325,6660,"(34.427, 42.045]",Very Hot
+2012-07-04,fall,2012,Jul,Clear/Partly Cloudy,36.61685,7403,"(34.427, 42.045]",Very Hot
+2012-07-05,fall,2012,Jul,Clear/Partly Cloudy,38.06835,6241,"(34.427, 42.045]",Very Hot
+2012-07-06,fall,2012,Jul,Clear/Partly Cloudy,37.62665,6207,"(34.427, 42.045]",Very Hot
+2012-07-07,fall,2012,Jul,Clear/Partly Cloudy,40.24565,4840,"(34.427, 42.045]",Very Hot
+2012-07-08,fall,2012,Jul,Clear/Partly Cloudy,39.5198,4672,"(34.427, 42.045]",Very Hot
+2012-07-09,fall,2012,Jul,Misty/Cloudy,32.7027,6569,"(26.808, 34.427]",Hot
+2012-07-10,fall,2012,Jul,Misty/Cloudy,33.2398,6290,"(26.808, 34.427]",Hot
+2012-07-11,fall,2012,Jul,Clear/Partly Cloudy,32.51355,7264,"(26.808, 34.427]",Hot
+2012-07-12,fall,2012,Jul,Clear/Partly Cloudy,32.73415,7446,"(26.808, 34.427]",Hot
+2012-07-13,fall,2012,Jul,Misty/Cloudy,33.39665,7499,"(26.808, 34.427]",Hot
+2012-07-14,fall,2012,Jul,Misty/Cloudy,33.3021,6969,"(26.808, 34.427]",Hot
+2012-07-15,fall,2012,Jul,Clear/Partly Cloudy,35.259800000000006,6031,"(34.427, 42.045]",Very Hot
+2012-07-16,fall,2012,Jul,Clear/Partly Cloudy,36.206250000000004,6830,"(34.427, 42.045]",Very Hot
+2012-07-17,fall,2012,Jul,Clear/Partly Cloudy,37.78415,6786,"(34.427, 42.045]",Very Hot
+2012-07-18,fall,2012,Jul,Clear/Partly Cloudy,37.27915,5713,"(34.427, 42.045]",Very Hot
+2012-07-19,fall,2012,Jul,Clear/Partly Cloudy,35.7321,6591,"(34.427, 42.045]",Very Hot
+2012-07-20,fall,2012,Jul,Misty/Cloudy,30.65125,5870,"(26.808, 34.427]",Hot
+2012-07-21,fall,2012,Jul,Light Rain/Snow,27.495599999999996,4459,"(26.808, 34.427]",Hot
+2012-07-22,fall,2012,Jul,Misty/Cloudy,31.156250000000004,7410,"(26.808, 34.427]",Hot
+2012-07-23,fall,2012,Jul,Clear/Partly Cloudy,34.50085,6966,"(34.427, 42.045]",Very Hot
+2012-07-24,fall,2012,Jul,Clear/Partly Cloudy,35.3225,7592,"(34.427, 42.045]",Very Hot
+2012-07-25,fall,2012,Jul,Clear/Partly Cloudy,32.7027,8173,"(26.808, 34.427]",Hot
+2012-07-26,fall,2012,Jul,Clear/Partly Cloudy,36.96315,6861,"(34.427, 42.045]",Very Hot
+2012-07-27,fall,2012,Jul,Clear/Partly Cloudy,36.71085,6904,"(34.427, 42.045]",Very Hot
+2012-07-28,fall,2012,Jul,Clear/Partly Cloudy,34.8802,6685,"(34.427, 42.045]",Very Hot
+2012-07-29,fall,2012,Jul,Clear/Partly Cloudy,33.39665,6597,"(26.808, 34.427]",Hot
+2012-07-30,fall,2012,Jul,Clear/Partly Cloudy,34.24935,7105,"(26.808, 34.427]",Hot
+2012-07-31,fall,2012,Jul,Clear/Partly Cloudy,33.144800000000004,7216,"(26.808, 34.427]",Hot
+2012-08-01,fall,2012,Aug,Clear/Partly Cloudy,33.3654,7580,"(26.808, 34.427]",Hot
+2012-08-02,fall,2012,Aug,Clear/Partly Cloudy,35.354400000000005,7261,"(34.427, 42.045]",Very Hot
+2012-08-03,fall,2012,Aug,Misty/Cloudy,36.143350000000005,7175,"(34.427, 42.045]",Very Hot
+2012-08-04,fall,2012,Aug,Clear/Partly Cloudy,37.56335,6824,"(34.427, 42.045]",Very Hot
+2012-08-05,fall,2012,Aug,Clear/Partly Cloudy,36.55395,5464,"(34.427, 42.045]",Very Hot
+2012-08-06,fall,2012,Aug,Misty/Cloudy,35.5123,7013,"(34.427, 42.045]",Very Hot
+2012-08-07,fall,2012,Aug,Misty/Cloudy,34.88105,7273,"(34.427, 42.045]",Very Hot
+2012-08-08,fall,2012,Aug,Misty/Cloudy,35.385850000000005,7534,"(34.427, 42.045]",Very Hot
+2012-08-09,fall,2012,Aug,Clear/Partly Cloudy,34.9754,7286,"(34.427, 42.045]",Very Hot
+2012-08-10,fall,2012,Aug,Misty/Cloudy,33.3971,5786,"(26.808, 34.427]",Hot
+2012-08-11,fall,2012,Aug,Misty/Cloudy,31.91335,6299,"(26.808, 34.427]",Hot
+2012-08-12,fall,2012,Aug,Clear/Partly Cloudy,32.22895,6544,"(26.808, 34.427]",Hot
+2012-08-13,fall,2012,Aug,Clear/Partly Cloudy,33.112700000000004,6883,"(26.808, 34.427]",Hot
+2012-08-14,fall,2012,Aug,Clear/Partly Cloudy,33.838950000000004,6784,"(26.808, 34.427]",Hot
+2012-08-15,fall,2012,Aug,Clear/Partly Cloudy,32.70185,7347,"(26.808, 34.427]",Hot
+2012-08-16,fall,2012,Aug,Clear/Partly Cloudy,32.7344,7605,"(26.808, 34.427]",Hot
+2012-08-17,fall,2012,Aug,Clear/Partly Cloudy,12.120000000000001,7148,"(11.572, 19.19]",Cold
+2012-08-18,fall,2012,Aug,Clear/Partly Cloudy,30.903550000000003,7865,"(26.808, 34.427]",Hot
+2012-08-19,fall,2012,Aug,Misty/Cloudy,30.1777,4549,"(26.808, 34.427]",Hot
+2012-08-20,fall,2012,Aug,Misty/Cloudy,29.798350000000003,6530,"(26.808, 34.427]",Hot
+2012-08-21,fall,2012,Aug,Clear/Partly Cloudy,30.051250000000003,7006,"(26.808, 34.427]",Hot
+2012-08-22,fall,2012,Aug,Clear/Partly Cloudy,31.0927,7375,"(26.808, 34.427]",Hot
+2012-08-23,fall,2012,Aug,Clear/Partly Cloudy,31.8504,7765,"(26.808, 34.427]",Hot
+2012-08-24,fall,2012,Aug,Misty/Cloudy,32.355000000000004,7582,"(26.808, 34.427]",Hot
+2012-08-25,fall,2012,Aug,Misty/Cloudy,30.934800000000003,6053,"(26.808, 34.427]",Hot
+2012-08-26,fall,2012,Aug,Misty/Cloudy,29.799799999999998,5255,"(26.808, 34.427]",Hot
+2012-08-27,fall,2012,Aug,Clear/Partly Cloudy,32.7344,6917,"(26.808, 34.427]",Hot
+2012-08-28,fall,2012,Aug,Clear/Partly Cloudy,33.3025,7040,"(26.808, 34.427]",Hot
+2012-08-29,fall,2012,Aug,Clear/Partly Cloudy,31.786649999999998,7697,"(26.808, 34.427]",Hot
+2012-08-30,fall,2012,Aug,Clear/Partly Cloudy,32.63895,7713,"(26.808, 34.427]",Hot
+2012-08-31,fall,2012,Aug,Clear/Partly Cloudy,34.47,7350,"(34.427, 42.045]",Very Hot
+2012-09-01,fall,2012,Sep,Misty/Cloudy,35.1327,6140,"(34.427, 42.045]",Very Hot
+2012-09-02,fall,2012,Sep,Misty/Cloudy,32.45,5810,"(26.808, 34.427]",Hot
+2012-09-03,fall,2012,Sep,Clear/Partly Cloudy,33.081450000000004,6034,"(26.808, 34.427]",Hot
+2012-09-04,fall,2012,Sep,Clear/Partly Cloudy,34.3444,6864,"(26.808, 34.427]",Hot
+2012-09-05,fall,2012,Sep,Clear/Partly Cloudy,35.44915,7112,"(34.427, 42.045]",Very Hot
+2012-09-06,fall,2012,Sep,Misty/Cloudy,32.766450000000006,6203,"(26.808, 34.427]",Hot
+2012-09-07,fall,2012,Sep,Clear/Partly Cloudy,32.8602,7504,"(26.808, 34.427]",Hot
+2012-09-08,fall,2012,Sep,Misty/Cloudy,30.556050000000003,5976,"(26.808, 34.427]",Hot
+2012-09-09,fall,2012,Sep,Clear/Partly Cloudy,28.946250000000003,8227,"(26.808, 34.427]",Hot
+2012-09-10,fall,2012,Sep,Clear/Partly Cloudy,28.2827,7525,"(26.808, 34.427]",Hot
+2012-09-11,fall,2012,Sep,Clear/Partly Cloudy,27.7146,7767,"(26.808, 34.427]",Hot
+2012-09-12,fall,2012,Sep,Clear/Partly Cloudy,28.50375,7870,"(26.808, 34.427]",Hot
+2012-09-13,fall,2012,Sep,Clear/Partly Cloudy,28.9779,7804,"(26.808, 34.427]",Hot
+2012-09-14,fall,2012,Sep,Clear/Partly Cloudy,29.704150000000002,8009,"(26.808, 34.427]",Hot
+2012-09-15,fall,2012,Sep,Clear/Partly Cloudy,29.29335,8714,"(26.808, 34.427]",Hot
+2012-09-16,fall,2012,Sep,Clear/Partly Cloudy,28.15625,7333,"(26.808, 34.427]",Hot
+2012-09-17,fall,2012,Sep,Misty/Cloudy,27.652500000000003,6869,"(26.808, 34.427]",Hot
+2012-09-18,fall,2012,Sep,Misty/Cloudy,28.253349999999998,4073,"(26.808, 34.427]",Hot
+2012-09-19,fall,2012,Sep,Clear/Partly Cloudy,27.0202,7591,"(26.808, 34.427]",Hot
+2012-09-20,fall,2012,Sep,Clear/Partly Cloudy,26.6096,7720,"(19.19, 26.808]",Moderate
+2012-09-21,fall,2012,Sep,Clear/Partly Cloudy,28.59855,8167,"(26.808, 34.427]",Hot
+2012-09-22,fall,2012,Sep,Clear/Partly Cloudy,30.5244,8395,"(26.808, 34.427]",Hot
+2012-09-23,winter,2012,Sep,Clear/Partly Cloudy,25.946649999999998,7907,"(19.19, 26.808]",Moderate
+2012-09-24,winter,2012,Sep,Clear/Partly Cloudy,25.12565,7436,"(19.19, 26.808]",Moderate
+2012-09-25,winter,2012,Sep,Clear/Partly Cloudy,27.208949999999998,7538,"(26.808, 34.427]",Hot
+2012-09-26,winter,2012,Sep,Clear/Partly Cloudy,29.83065,7733,"(26.808, 34.427]",Hot
+2012-09-27,winter,2012,Sep,Misty/Cloudy,30.398750000000003,7393,"(26.808, 34.427]",Hot
+2012-09-28,winter,2012,Sep,Misty/Cloudy,29.29315,7415,"(26.808, 34.427]",Hot
+2012-09-29,winter,2012,Sep,Clear/Partly Cloudy,26.5148,8555,"(19.19, 26.808]",Moderate
+2012-09-30,winter,2012,Sep,Clear/Partly Cloudy,25.88315,6889,"(19.19, 26.808]",Moderate
+2012-10-01,winter,2012,Oct,Misty/Cloudy,25.6,6778,"(19.19, 26.808]",Moderate
+2012-10-02,winter,2012,Oct,Light Rain/Snow,27.116649999999996,4639,"(26.808, 34.427]",Hot
+2012-10-03,winter,2012,Oct,Misty/Cloudy,29.95665,7572,"(26.808, 34.427]",Hot
+2012-10-04,winter,2012,Oct,Misty/Cloudy,30.398750000000003,7328,"(26.808, 34.427]",Hot
+2012-10-05,winter,2012,Oct,Clear/Partly Cloudy,29.00935,8156,"(26.808, 34.427]",Hot
+2012-10-06,winter,2012,Oct,Clear/Partly Cloudy,26.92605,7965,"(26.808, 34.427]",Hot
+2012-10-07,winter,2012,Oct,Misty/Cloudy,20.99065,3510,"(19.19, 26.808]",Moderate
+2012-10-08,winter,2012,Oct,Misty/Cloudy,19.3804,5478,"(19.19, 26.808]",Moderate
+2012-10-09,winter,2012,Oct,Misty/Cloudy,21.9056,6392,"(19.19, 26.808]",Moderate
+2012-10-10,winter,2012,Oct,Clear/Partly Cloudy,25.1571,7691,"(19.19, 26.808]",Moderate
+2012-10-11,winter,2012,Oct,Clear/Partly Cloudy,21.55835,7570,"(19.19, 26.808]",Moderate
+2012-10-12,winter,2012,Oct,Clear/Partly Cloudy,21.65355,7282,"(19.19, 26.808]",Moderate
+2012-10-13,winter,2012,Oct,Clear/Partly Cloudy,19.5698,7109,"(19.19, 26.808]",Moderate
+2012-10-14,winter,2012,Oct,Clear/Partly Cloudy,25.4102,6639,"(19.19, 26.808]",Moderate
+2012-10-15,winter,2012,Oct,Misty/Cloudy,26.9575,5875,"(26.808, 34.427]",Hot
+2012-10-16,winter,2012,Oct,Clear/Partly Cloudy,23.042299999999997,7534,"(19.19, 26.808]",Moderate
+2012-10-17,winter,2012,Oct,Clear/Partly Cloudy,22.5054,7461,"(19.19, 26.808]",Moderate
+2012-10-18,winter,2012,Oct,Misty/Cloudy,25.63125,7509,"(19.19, 26.808]",Moderate
+2012-10-19,winter,2012,Oct,Misty/Cloudy,26.894800000000004,5424,"(26.808, 34.427]",Hot
+2012-10-20,winter,2012,Oct,Clear/Partly Cloudy,23.6421,8090,"(19.19, 26.808]",Moderate
+2012-10-21,winter,2012,Oct,Clear/Partly Cloudy,22.82145,6824,"(19.19, 26.808]",Moderate
+2012-10-22,winter,2012,Oct,Clear/Partly Cloudy,24.1471,7058,"(19.19, 26.808]",Moderate
+2012-10-23,winter,2012,Oct,Clear/Partly Cloudy,26.5152,7466,"(19.19, 26.808]",Moderate
+2012-10-24,winter,2012,Oct,Clear/Partly Cloudy,27.93605,7693,"(26.808, 34.427]",Hot
+2012-10-25,winter,2012,Oct,Misty/Cloudy,26.4844,7359,"(19.19, 26.808]",Moderate
+2012-10-26,winter,2012,Oct,Misty/Cloudy,26.137500000000003,7444,"(19.19, 26.808]",Moderate
+2012-10-27,winter,2012,Oct,Misty/Cloudy,25.756649999999997,7852,"(19.19, 26.808]",Moderate
+2012-10-28,winter,2012,Oct,Misty/Cloudy,23.38855,4459,"(19.19, 26.808]",Moderate
+2012-10-29,winter,2012,Oct,Light Rain/Snow,21.97,22,"(19.19, 26.808]",Moderate
+2012-10-30,winter,2012,Oct,Misty/Cloudy,15.49545,1096,"(11.572, 19.19]",Cold
+2012-10-31,winter,2012,Oct,Misty/Cloudy,18.055,5566,"(11.572, 19.19]",Cold
+2012-11-01,winter,2012,Nov,Misty/Cloudy,18.4971,5986,"(11.572, 19.19]",Cold
+2012-11-02,winter,2012,Nov,Clear/Partly Cloudy,17.802100000000003,5847,"(11.572, 19.19]",Cold
+2012-11-03,winter,2012,Nov,Misty/Cloudy,16.1923,5138,"(11.572, 19.19]",Cold
+2012-11-04,winter,2012,Nov,Clear/Partly Cloudy,16.4769,5107,"(11.572, 19.19]",Cold
+2012-11-05,winter,2012,Nov,Clear/Partly Cloudy,15.403749999999999,5259,"(11.572, 19.19]",Cold
+2012-11-06,winter,2012,Nov,Clear/Partly Cloudy,14.07835,5686,"(11.572, 19.19]",Cold
+2012-11-07,winter,2012,Nov,Misty/Cloudy,13.73105,5035,"(11.572, 19.19]",Cold
+2012-11-08,winter,2012,Nov,Clear/Partly Cloudy,17.09455,5315,"(11.572, 19.19]",Cold
+2012-11-09,winter,2012,Nov,Clear/Partly Cloudy,17.77065,5992,"(11.572, 19.19]",Cold
+2012-11-10,winter,2012,Nov,Clear/Partly Cloudy,19.696849999999998,6536,"(19.19, 26.808]",Moderate
+2012-11-11,winter,2012,Nov,Clear/Partly Cloudy,21.08565,6852,"(19.19, 26.808]",Moderate
+2012-11-12,winter,2012,Nov,Clear/Partly Cloudy,23.76915,6269,"(19.19, 26.808]",Moderate
+2012-11-13,winter,2012,Nov,Misty/Cloudy,16.16125,4094,"(11.572, 19.19]",Cold
+2012-11-14,winter,2012,Nov,Clear/Partly Cloudy,14.07815,5495,"(11.572, 19.19]",Cold
+2012-11-15,winter,2012,Nov,Misty/Cloudy,16.2246,5445,"(11.572, 19.19]",Cold
+2012-11-16,winter,2012,Nov,Clear/Partly Cloudy,17.3602,5698,"(11.572, 19.19]",Cold
+2012-11-17,winter,2012,Nov,Clear/Partly Cloudy,16.31915,5629,"(11.572, 19.19]",Cold
+2012-11-18,winter,2012,Nov,Clear/Partly Cloudy,16.8873,4669,"(11.572, 19.19]",Cold
+2012-11-19,winter,2012,Nov,Misty/Cloudy,18.78105,5499,"(11.572, 19.19]",Cold
+2012-11-20,winter,2012,Nov,Misty/Cloudy,19.03335,5634,"(11.572, 19.19]",Cold
+2012-11-21,winter,2012,Nov,Clear/Partly Cloudy,18.2446,5146,"(11.572, 19.19]",Cold
+2012-11-22,winter,2012,Nov,Clear/Partly Cloudy,17.518549999999998,2425,"(11.572, 19.19]",Cold
+2012-11-23,winter,2012,Nov,Clear/Partly Cloudy,18.93895,3910,"(11.572, 19.19]",Cold
+2012-11-24,winter,2012,Nov,Clear/Partly Cloudy,12.4371,2277,"(11.572, 19.19]",Cold
+2012-11-25,winter,2012,Nov,Clear/Partly Cloudy,12.879150000000001,2424,"(11.572, 19.19]",Cold
+2012-11-26,winter,2012,Nov,Clear/Partly Cloudy,16.950200000000002,5087,"(11.572, 19.19]",Cold
+2012-11-27,winter,2012,Nov,Misty/Cloudy,14.0779,3959,"(11.572, 19.19]",Cold
+2012-11-28,winter,2012,Nov,Clear/Partly Cloudy,14.488100000000001,5260,"(11.572, 19.19]",Cold
+2012-11-29,winter,2012,Nov,Clear/Partly Cloudy,14.921100000000001,5323,"(11.572, 19.19]",Cold
+2012-11-30,winter,2012,Nov,Clear/Partly Cloudy,16.193350000000002,5668,"(11.572, 19.19]",Cold
+2012-12-01,winter,2012,Dec,Misty/Cloudy,15.8452,5191,"(11.572, 19.19]",Cold
+2012-12-02,winter,2012,Dec,Misty/Cloudy,17.9604,4649,"(11.572, 19.19]",Cold
+2012-12-03,winter,2012,Dec,Clear/Partly Cloudy,22.7898,6234,"(19.19, 26.808]",Moderate
+2012-12-04,winter,2012,Dec,Clear/Partly Cloudy,23.4527,6606,"(19.19, 26.808]",Moderate
+2012-12-05,winter,2012,Dec,Clear/Partly Cloudy,21.4006,5729,"(19.19, 26.808]",Moderate
+2012-12-06,winter,2012,Dec,Clear/Partly Cloudy,12.9102,5375,"(11.572, 19.19]",Cold
+2012-12-07,winter,2012,Dec,Misty/Cloudy,16.097900000000003,5008,"(11.572, 19.19]",Cold
+2012-12-08,winter,2012,Dec,Misty/Cloudy,19.4754,5582,"(19.19, 26.808]",Moderate
+2012-12-09,winter,2012,Dec,Misty/Cloudy,19.5073,3228,"(19.19, 26.808]",Moderate
+2012-12-10,winter,2012,Dec,Misty/Cloudy,21.77875,5170,"(19.19, 26.808]",Moderate
+2012-12-11,winter,2012,Dec,Misty/Cloudy,16.91815,5501,"(11.572, 19.19]",Cold
+2012-12-12,winter,2012,Dec,Misty/Cloudy,14.8669,5319,"(11.572, 19.19]",Cold
+2012-12-13,winter,2012,Dec,Clear/Partly Cloudy,14.7094,5532,"(11.572, 19.19]",Cold
+2012-12-14,winter,2012,Dec,Clear/Partly Cloudy,14.7096,5611,"(11.572, 19.19]",Cold
+2012-12-15,winter,2012,Dec,Clear/Partly Cloudy,16.91915,5047,"(11.572, 19.19]",Cold
+2012-12-16,winter,2012,Dec,Misty/Cloudy,18.4969,3786,"(11.572, 19.19]",Cold
+2012-12-17,winter,2012,Dec,Misty/Cloudy,20.075000000000003,4585,"(19.19, 26.808]",Moderate
+2012-12-18,winter,2012,Dec,Clear/Partly Cloudy,20.485400000000002,5557,"(19.19, 26.808]",Moderate
+2012-12-19,winter,2012,Dec,Clear/Partly Cloudy,17.1081,5267,"(11.572, 19.19]",Cold
+2012-12-20,winter,2012,Dec,Misty/Cloudy,16.760849999999998,4128,"(11.572, 19.19]",Cold
+2012-12-21,spring,2012,Dec,Misty/Cloudy,15.08835,3623,"(11.572, 19.19]",Cold
+2012-12-22,spring,2012,Dec,Clear/Partly Cloudy,11.80565,1749,"(11.572, 19.19]",Cold
+2012-12-23,spring,2012,Dec,Clear/Partly Cloudy,12.97355,1787,"(11.572, 19.19]",Cold
+2012-12-24,spring,2012,Dec,Misty/Cloudy,12.945,920,"(11.572, 19.19]",Cold
+2012-12-25,spring,2012,Dec,Misty/Cloudy,14.723249999999998,1013,"(11.572, 19.19]",Cold
+2012-12-26,spring,2012,Dec,Light Rain/Snow,11.01665,441,"(3.952, 11.572]",Very Cold
+2012-12-27,spring,2012,Dec,Misty/Cloudy,11.3321,2114,"(3.952, 11.572]",Very Cold
+2012-12-28,spring,2012,Dec,Misty/Cloudy,12.7523,3095,"(11.572, 19.19]",Cold
+2012-12-29,spring,2012,Dec,Misty/Cloudy,12.120000000000001,1341,"(11.572, 19.19]",Cold
+2012-12-30,spring,2012,Dec,Clear/Partly Cloudy,11.584999999999999,1796,"(11.572, 19.19]",Cold
+2012-12-31,spring,2012,Dec,Misty/Cloudy,11.17435,2729,"(3.952, 11.572]",Very Cold
